@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(0,42,255);
+background: radial-gradient(circle, rgba(0,42,255,1) 0%, rgba(246,4,53,1) 100%);
+}
+.main{
+    text-align: center;
+}
+.example{
+    border-style: dashed;
+    text-align: center;
+    width: 200px;
+    height: 25px;
+    padding: 10px;
+    font-size: 22px;
+    border-radius: 2px;
+    color: black;
+    background-color: white;
+    margin-top: 50px;
+}
+button{
+    margin-right: 15px;
+    width: 90px;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 9px;
+}
+h2{
+    color: white;
+}
